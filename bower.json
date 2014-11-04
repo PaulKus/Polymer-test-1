@@ -1,0 +1,24 @@
+{
+  "name": "polymer-test-1",
+  "version": "0.0.0",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "authors": [
+    "Paul Kus"
+  ],
+  "license": "MIT",
+  "homepage": "http://paulkus.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.4.2",
+    "jquery-backstretch": "~2.0.4"
+  }
+}
