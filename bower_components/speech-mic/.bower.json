@@ -1,0 +1,19 @@
+{
+  "name": "speech-mic",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.4.0"
+  },
+  "homepage": "https://github.com/Polymer/speech-mic",
+  "version": "0.4.2",
+  "_release": "0.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.2",
+    "commit": "8206df0489e605321d2ab597d28329aeccc230d3"
+  },
+  "_source": "git://github.com/Polymer/speech-mic.git",
+  "_target": "~0.4.2",
+  "_originalSource": "Polymer/speech-mic",
+  "_direct": true
+}

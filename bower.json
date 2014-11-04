@@ -18,8 +18,9 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "~0.4.2",
-    "jquery-backstretch": "~2.0.4",
-    "core-elements": "Polymer/core-elements#~0.4.2"
+    "polymer": "Polymer/polymer#master",
+    "core-elements": "Polymer/core-elements",
+    "google-map": "PolymerLabs/google-map",
+    "speech-mic": "Polymer/speech-mic"
   }
 }
